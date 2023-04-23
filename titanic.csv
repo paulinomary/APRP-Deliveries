@@ -1306,3 +1306,5 @@ pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,ho
 3.0,0.0,"Zabour, Miss. Hileni",female,14.5,1.0,0.0,2665,14.4542,,C,,328.0,
 3.0,0.0,"Zabour, Miss. Thamine",female,,1.0,0.0,2665,14.4542,,C,,,
 3.0,0.0,"Zakarian, Mr. Mapriededer",male,26.5,0.0,0.0,2656,7.225,,C,,304.0,
+3.0,0.0,"Zakarian, Mr. Ortin",male,27.0,0.0,0.0,2670,7.225,,C,,,
+3.0,0.0,"Zimmerman, Mr. Leo",male,29.0,0.0,0.0,315082,7.875,,S,,,
